@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Practica_Gorethi.Presentation.BookController",
+    "Method": "Create",
+    "RelativePath": "api/Book",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Practica_Gorethi.Data.DTO_s.BookDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica_Gorethi.Presentation.BookController",
+    "Method": "GetAll",
+    "RelativePath": "api/Book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica_Gorethi.Presentation.BookController",
+    "Method": "GetByAutor",
+    "RelativePath": "api/Book/ByAutor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreautor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

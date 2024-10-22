@@ -1,0 +1,6 @@
+@Practica_Gorethi_HostAddress = http://localhost:5157
+
+GET {{Practica_Gorethi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
