@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\practica_gorethi\\practica_gorethi\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|solutionrelative:practica_gorethi\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\practica_gorethi\\practica_gorethi\\presentation\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|solutionrelative:practica_gorethi\\presentation\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|solutionrelative:practica_gorethi\\data\\dto\u0027s\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\practica_gorethi\\practica_gorethi\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|solutionrelative:practica_gorethi\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\practica_gorethi\\practica_gorethi\\data\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B615C0EC-AD0F-4DDA-8A68-C6CD475A99E9}|Practica_Gorethi\\Practica_Gorethi.csproj|solutionrelative:practica_gorethi\\data\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Presentation\\BookController.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Presentation\\BookController.cs",
@@ -70,38 +70,11 @@
               "RelativeToolTip": "Practica_Gorethi\\Presentation\\BookController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:51:15.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\appsettings.json",
-              "RelativeDocumentMoniker": "Practica_Gorethi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\appsettings.json",
-              "RelativeToolTip": "Practica_Gorethi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T20:46:43.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:51:15.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Program.cs",
-              "RelativeDocumentMoniker": "Practica_Gorethi\\Program.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Program.cs",
-              "RelativeToolTip": "Practica_Gorethi\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:45:30.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "BookServiceImpl.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Bussines\\Services\\BookServiceImpl.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Bussines\\Services\\BookServiceImpl.cs",
@@ -109,12 +82,11 @@
               "RelativeToolTip": "Practica_Gorethi\\Bussines\\Services\\BookServiceImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:30:31.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:30:31.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Bussines\\Services\\IBookService.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Bussines\\Services\\IBookService.cs",
@@ -122,12 +94,11 @@
               "RelativeToolTip": "Practica_Gorethi\\Bussines\\Services\\IBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:30:16.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:30:16.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Data\\DTO\u0027s\\BookDTO.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Data\\DTO\u0027s\\BookDTO.cs",
@@ -135,38 +106,60 @@
               "RelativeToolTip": "Practica_Gorethi\\Data\\DTO\u0027s\\BookDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:28:44.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T20:28:44.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Practica_Gorethi",
+              "DocumentIndex": 4,
+              "Title": "Practica_Gorethi.csproj",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Practica_Gorethi.csproj",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Practica_Gorethi.csproj",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Practica_Gorethi.csproj",
               "RelativeToolTip": "Practica_Gorethi\\Practica_Gorethi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T19:23:14.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:23:14.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Data\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Data\\Repositories\\BookRepository.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Data\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "Practica_Gorethi\\Data\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:12:01.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Program.cs",
+              "RelativeDocumentMoniker": "Practica_Gorethi\\Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Program.cs",
+              "RelativeToolTip": "Practica_Gorethi\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:45:30.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica_Gorethi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\appsettings.json",
+              "RelativeToolTip": "Practica_Gorethi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T20:46:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Data\\AppDBContext.cs",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "Practica_Gorethi\\Data\\AppDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:31:35.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:31:35.033Z"
             },
             {
               "$type": "Document",
@@ -187,12 +179,11 @@
               "RelativeToolTip": "Practica_Gorethi\\Data\\Repositories\\AutorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:30:49.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:30:49.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\proyectosCurso\\Practica_Gorethi\\Practica_Gorethi\\Bussines\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Practica_Gorethi\\Bussines\\Entities\\Book.cs",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "Practica_Gorethi\\Bussines\\Entities\\Book.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAIA2wAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:28:19.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:28:19.843Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "Practica_Gorethi\\Bussines\\Entities\\Autor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:25:15.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:25:15.183Z"
             }
           ]
         }
