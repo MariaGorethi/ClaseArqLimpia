@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MicroserviciosPerros.Presentation.Controllers.DogController",
+    "Method": "Insert",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dogDTO",
+        "Type": "MicroserviciosPerros.Data.DTO_s.DogDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroserviciosPerros.Presentation.Controllers.DogController",
+    "Method": "GetAll",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroserviciosPerros.Presentation.Controllers.DogController",
+    "Method": "Delete",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
